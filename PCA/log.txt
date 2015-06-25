@@ -1,0 +1,6 @@
+The analysis for each chain length has to be separated into different folders. Folders 100-149 are temperary folders for 3DNA analysis.
+The PCA analysis in the current directory are states mixing different numbers of HUs and some lengths are missing becuase the time exceeds.
+
+Creat folders for 2HU and 3HU cases.
+
+Use loop*files to separate different HU cases. But it takes too long to search files, so the outputs are separate into different length-folders first, which is in ~/snapshots_nProtein/1HUper100/%(bp)i
