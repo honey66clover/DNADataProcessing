@@ -1,0 +1,15 @@
+J = 1.775077e-05 M, total closed configurations = 9
+sample size = 3000 squared, 9000000 total configurations
+
+Epsilon values: R < 20.000000 Ang, cos(y) > 0.866000, tau < 15.000000
+Proteins:
+HBB (14 steps), w=0.011900
+Boundary 0:
+ 0.000000
+ 0.000000
+ 0.000000
+ 0.000000
+ 0.000000
+ 0.000000
+
+J by boundary = 1.775077e-05 
